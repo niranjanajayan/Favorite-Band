@@ -1,2 +1,26 @@
 # Favorite-Band
 Simple Html code for a page containing details of your favorite band.
+
+
+<body>
+  <h1><i><u> Cigarettes After Sex </u></i></h1>
+  <h3> Pop band </h3>
+  <img src="https://i.guim.co.uk/img/media/6b13ff9e08454de73a0e37bbadf5bc6f47526e9a/0_84_2500_1500/master/2500.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=df45adb93602665d8ab79b32d0595eb7" >
+  <p>Cigarettes After Sex is an American dream pop band,<br> formed in El Paso, Texas, in 2008 by Greg Gonzalez. <br>The band is known for their ethereal, limerent and <br>often dream-like musical style, lyrics often based on the themes <br>of romance and love, as well as Gonzalez's voice, which has been <br>described as androgynous.</p>
+  <p>More details:<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cigarettesaftersex.com%2F&psig=AOvVaw2jSNMdj11eXRh1MQY-kqIQ&ust=1749375317767000&source=images&cd=vfe&opi=89978449&ved=0CAQQn5wMahcKEwjwrprRgd-NAxUAAAAAHQAAAAAQBA">click here!</a></p>
+  <h2>Members</h2>
+  <ul>
+    <li>Greg Gonzalez(Lead vocal & guitar)</li>
+    <li>Randall Miller(Bass)</li>
+    <li>Jacob Tomsky(Drums)</li>
+    <li>Josh Marcus(Keyboards)</li>
+  </ul>
+  <h2>Top 5 Songs</h2>
+  <ol>
+    <li>Apocalypse</li>
+    <li>Cry</li>
+    <li>K.</li>
+    <li>Sunsetz</li>
+    <li>Heavenly</li>
+  </ol>
+  <h4><i>fin.</i></h4>
