@@ -1,6 +1,8 @@
 <! Simple html code for a page containing details of your favorite band. >
 
 
+<!DOCTYPE html>
+<html>
 <body>
   <h1><i><u> Cigarettes After Sex </u></i></h1>
   <h3> Pop band </h3>
@@ -23,3 +25,5 @@
     <li>Heavenly</li>
   </ol>
   <h4><i>fin.</i></h4>
+</body>
+</html>
