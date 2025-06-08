@@ -1,7 +1,8 @@
 # Favorite-Band
 Simple page containing details of your favorite band.
 
-
+<!DOCTYPE html>
+<html>
 <body>
   <h1><i><u> Cigarettes After Sex </u></i></h1>
   <h3> Pop band </h3>
@@ -24,3 +25,6 @@ Simple page containing details of your favorite band.
     <li>Heavenly</li>
   </ol>
   <h4><i>fin.</i></h4>
+</body>
+</html>
+
